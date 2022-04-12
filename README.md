@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jacob (@Yizun-Z)
+- 👀 I’m interested in Programming, Web Technology, Problem Solving and Well-being.
+- 🌱 I’m currently learning React.js, Three.js, 3D Front-end technology.
+- 💞️ I’m looking to collaborate on project that solve day-to-day problems and WebGL-related 
+- 📫 How to reach me yi2un@outlook.com
